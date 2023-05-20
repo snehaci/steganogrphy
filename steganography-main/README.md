@@ -4,25 +4,6 @@ REQUIREMENTS:
 2] A computer with a processor that is fast enough to encode and decode the hidden message.
 3] Operating System : Windows, mac, Linux
 
-TECHNOLOGY USED:
-
-1] Python 3.9 or above
-2] OpenCV - Open Source Computer Vision Library is an open source computer vision and machine learning software library. A computer vision system can detect the facial emotions and detection of eye and mouth outliners in a real time video stream and then alert the driver by prompting an alarm.
-3] Dlib - Dlib is a general purpose cross platform library written in the programming language in c++. It here used in detection of the facial landmark locaions.
-4] PIL - Pillow is a powerful tool for image processing. It can be used to resize, crop, rotate, and flip images. It can also be used to add text, borders, and effects to images. Pillow can also be used to convert images between different file formats.
-5] Flask - Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. It is intended to be a simple, flexible and extensible framework for building web applications.
-
-REQUIRED LIBRARIES:
-
-numpy - 1.19.3
-opencv-python - 4.6.0.66
-scipy 1.7.1
-re
-wave
-os
-tempfile
-fileinput
-
 INSTRUCTIONS TO RUN THE TEXT, IMAGE AND AUDIO STEGANOGRAPHY:
 
 STEP 1: First, keep the all source code in same folder
@@ -61,9 +42,6 @@ Audio Steganography
 4] Save the audio file.
 5] upload the audio file to the decode.
 6] The decode uses a steganography tool to extract the message from the audio file.
-
-Youtube link 
-https://www.youtube.com/watch?v=xepNoHgNj0w
 
 CONTRIBUTERS 
 Nandika L R
