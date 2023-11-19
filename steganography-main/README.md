@@ -1,5 +1,7 @@
 Demonstration Video : https://youtu.be/354gg2f-078?si=_bUhFxqer4jA5BHs
 
+Journal Link : https://www.ijraset.com/research-paper/text-image-and-audio-steganography
+
 REQUIREMENTS:
 
 1] Application : Visual studio and Browser
